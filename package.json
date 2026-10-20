@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-modbus-rtu-slave",
+  "name": "node-red-contrib-modbus-rtu-cow-slave",
   "version": "1.0.0",
   "description": "A Node-RED node for Modbus RTU Slave using modbus-serial",
   "main": "modbus-rtu-slave.js",
