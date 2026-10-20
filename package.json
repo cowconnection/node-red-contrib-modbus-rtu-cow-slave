@@ -11,7 +11,7 @@
   },
   "node-red": {
     "nodes": {
-      "modbus-rtu-slave": "modbus-rtu-slave.js"
+      "modbus-rtu-cow-slave": "modbus-rtu-slave.js"
     }
   },
   "keywords": [
