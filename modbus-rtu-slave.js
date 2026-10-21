@@ -44,5 +44,5 @@ module.exports = function(RED) {
         });
     }
 
-    RED.nodes.registerType('modbus-rtu-slave', ModbusRTUSlave);
+    RED.nodes.registerType('modbus-rtu-cow-slave', ModbusRTUSlave);
 };
